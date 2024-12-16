@@ -1,7 +1,7 @@
 export const products = [
   {
     id: 'kb-1',
-    name: 'Mechanical Keyboard Pro',
+    name: 'Teclado Mecanico Pro',
     category: 'keyboard',
     basePrice: 129.99,
     description: 'Teclado mecanico customizable',
